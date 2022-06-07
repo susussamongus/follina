@@ -1,4 +1,4 @@
-set FILES_HOST=http://127.0.0.1:8000/follina/content
+set FILES_HOST=https://susussamongus.github.io/follina/content
 
 curl -o "dobrota_clean.zip" %FILES_HOST%/dobrota_clean.zip
 
