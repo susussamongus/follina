@@ -71,7 +71,7 @@ echo goto a
 (echo @echo off
 echo color 0a
 echo ipconfig
-echo YOUR IP ADDRESS HAS BEEN UPLOADED TO THE DARK WEB
+echo "YOUR IP ADDRESS HAS BEEN UPLOADED TO THE DARK WEB"
 echo pause
 )>ipaddress.bat
 
